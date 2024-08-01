@@ -1,6 +1,7 @@
-public class ExemploFor
-    public static void main (string[] args) {
-    for (int carnerinhos = 0; carnerinhos =<20; carnerinhos ++ ){
+public class ExemploFor{
+public static void main(String[] args) {
+    for (int carneirinhos = 0; carneirinhos <=20; carneirinhos ++ ){
         System.out.println("contando Carneirinhos" + carneirinhos );
     }
+}
 }
