@@ -5,14 +5,16 @@
 - `lib/`: Bibliotecas externas (se necessário)
 
 ## Como compilar
+
 Abra o terminal na pasta `Exercicios1` e use:
 
-```
+```bash
 javac -d bin src/NomeDoArquivo.java
 ```
 
 ## Como executar
-```
+
+```bash
 java -cp bin NomeDoArquivo
 ```
 
